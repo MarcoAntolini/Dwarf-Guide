@@ -1,0 +1,93 @@
+Guide for Steam Mechanicus:
+
+◆ BEGINNERS GUIDE:
+
+┏ 
+
+As a starter you should focus on getting some Core Items:
+- Lingering Memory Items: Boots and Adornment.
+- 2 q5 Rings.
+- Destructor Amulet (you will need to kill him 100 times to get Skins and craft it).
+- Some world drops like: Banner of Heroes, Mechanical Warrior's Terror Helmet (usually called dmg helmet), Master Machinist's Steel Pauldrons.
+
+While you farm those Core Items that you will keep also in the future to end game build, you should also look for some other Items that will help you in the beginning, such as:
+- Lingering Memory Torso.
+- Some world drops like: Mechanicum Shield, Avenger Weapon, Dragonfire Set (Weapon and Offhand), Sparks Set (Belt, Gloves and eventually Boots).
+
+There are also some Event Items that you should try to get as soon as possible, such as: Premium Belt, Sargon Gloves, Summer Event Amulet (Kingshill Necklace).
+
+Talking about Wisdom, the first things to focus on are Attack Speed (put there points until you reach 4.00 Attack Speed, so you will get the damage buff in map) and most of all Critical (to max 80/80 as soon as possible).
+
+Talking about Gems, as always Critical is the most important thing, try to have a balanced build but most of all work to get the 4.00 Attack Speed and upgrade your Critical gems as much as possible.
+Talking about Runes, first of all you should work on your Wisdom and Materi runes (upgrade them as much as possible because they will allow you to level up your Wisdom way faster and also get faster the Materi to buy Infernal Passages) again focus first on Attack Speed and Critical. Then go for HP, DMG but don't throw away Steam, Movement Speed, Armor or Resistance runes because you will soon need thatto upgrade also them.
+
+The best build to use and easiest to build as a starter is 1 HAND FIRE BUILD. 
+The Core Items here are: Dragonfire Set already mentioned before and also q1 Adornment.
+Skilltree: 
+Equipment:
+Fire Build is all about 2 Red Turrets + Rocket + Flamethrower (you can then use other skills to help for more damage or survivability like Shrapnel Shot, Oil, Jump, Dwarf in the Box, Green Turret, Mine). It's the best build for map clearing and also good at bosses.
+
+┗
+
+
+◆ MID GAME GUIDE:
+
+┏
+
+When you reach mid game you have two options: you can keep playing 1 hand (eventually switching to Light Build) or you can switch to 2 hand build if you reach some requirements: to switch to 2h hand build you will need to stil have at least 3.6/7 Attack Speed, don't lose Critical and much HP, and get at least a significant change in DMG.
+
+If you decide to switch to 2 HAND build the best option to go is LIGHT BUILD.
+The Core Items here are: q8 Adornment, q10 Shoulders and Destructor Torso.
+As 2 hand Weapon the best option is Anniversary Event Weapon, but if you don't have it then go for q4 Weapon.
+Skilltree: 
+Equipment:
+Light Build is all about Rocket + Tesla + Quickshot (you can then use other skills for more light damage, especially on boss, like Oil and Dwarf in the Box). As always you can use other skills to help for more damage or more survivability.
+
+While playing Light Build you have the option to go for a HYBRID PHYSICAL BUILD for more damage.
+Playing this version will give you more damage, especially against bosses; and it only requires very little changes in the Skilltree and the optional addition of q8 Torso for more damage (doing this while at Mid Game will probably require you to play with one Mortis Ring to achieve the needed Attack Speed).
+Skilltree: 
+Equipment:
+In this case you will add to the main skills also Mine and Blue Turret.
+
+Talking about Wisdom, you should have reached here a good amount of Wisdom so you can manage your points: maxed Critical, needed Attack Speed, Cooldown Reduction (which is one of the main reasons why you switch to a 2 hand build) and then balance your stats in HP, DMG, Resistance and Armor (always level up them together like 40/80 and 40/80; and not one at a time like 80/80 and 1/80), Steam.
+
+At this point of the game you will probably have some experience and knowledge of the game so you can also start testing some different Items to balance your character (except for the Core Items of course).
+Such Items are for example: Nefertari Banner, Mortis Ring, Sargon Head, Destructor Set (usually for Belt, if you don't have Premium Belt, and Gloves or Head), Sewers Event Set (Head and Gloves).
+
+┗
+
+
+◆ END GAME GUIDE:
+
+┏
+
+
+
+┗
+
+
+◆ PVP GUIDE:
+
+┏
+
+
+
+┗
+
+
+◆ GENERAL TIPS:
+
+┏
+
+- mov speed wisdom
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+┗
