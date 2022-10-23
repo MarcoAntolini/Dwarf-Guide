@@ -1,0 +1,60 @@
+PWD d:\My Files\Dwarf-Guide\src
+INPUT C:\Users\marco\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\My Files\Dwarf-Guide\src\Dwarf Guide.tex
+OUTPUT Dwarf Guide.log
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT D:\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT D:\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT D:\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT D:\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT D:\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT D:\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\Dwarf Guide.aux
+INPUT Dwarf Guide.aux
+INPUT Dwarf Guide.aux
+OUTPUT Dwarf Guide.aux
+INPUT Dwarf Guide.aux
