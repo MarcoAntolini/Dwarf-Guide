@@ -1,5 +1,3 @@
-Guide for Steam Mechanicus:
-
 ◆ BEGINNERS GUIDE:
 
 ┏ 
@@ -15,11 +13,6 @@ While you farm those Core Items that you will keep also in the future to end gam
 - Some world drops like: Mechanicum Shield, Avenger Weapon, Dragonfire Set (Weapon and Offhand), Sparks Set (Belt, Gloves and eventually Boots).
 
 There are also some Event Items that you should try to get as soon as possible, such as: Premium Belt, Sargon Gloves, Summer Event Amulet (Kingshill Necklace).
-
-Talking about Wisdom, the first things to focus on are Attack Speed (put there points until you reach 4.00 Attack Speed, so you will get the damage buff in map) and most of all Critical (to max 80/80 as soon as possible).
-
-Talking about Gems, as always Critical is the most important thing, try to have a balanced build but most of all work to get the 4.00 Attack Speed and upgrade your Critical gems as much as possible.
-Talking about Runes, first of all you should work on your Wisdom and Materi runes (upgrade them as much as possible because they will allow you to level up your Wisdom way faster and also get faster the Materi to buy Infernal Passages) again focus first on Attack Speed and Critical. Then go for HP, DMG but don't throw away Steam, Movement Speed, Armor or Resistance runes because you will soon need thatto upgrade also them.
 
 The best build to use and easiest to build as a starter is 1 HAND FIRE BUILD. 
 The Core Items here are: Dragonfire Set already mentioned before and also q1 Adornment.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  23 OCT 2022 20:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  24 OCT 2022 00:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -318,7 +318,7 @@ Package hyperref Info: Link coloring OFF on input line 27.
 \@outlinefile=\write3
 \openout3 = `"Dwarf Guide.out"'.
 
-<../res//dwarf.png, id=171, 256.96pt x 256.96pt>
+<../res//dwarf.png, id=175, 256.96pt x 256.96pt>
 File: ../res//dwarf.png Graphic file (type png)
 <use ../res//dwarf.png>
 Package pdftex.def Info: ../res//dwarf.png  used on input line 36.
@@ -334,22 +334,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `"Dwarf Guide.toc"'.
 
- [3] [4] [5] [6] [7] (Dwarf Guide.aux)
+ [3] [4] [5] [6] [7] [8] (Dwarf Guide.aux)
 Package rerunfilecheck Info: File `"Dwarf Guide".out' has not changed.
-(rerunfilecheck)             Checksum: 3818C8E53D8025E7172B0BF90701A4C5;3851.
+(rerunfilecheck)             Checksum: E30C750CD7822D774C85194DD4A07DC4;3962.
  ) 
 Here is how much of TeX's memory you used:
- 10004 strings out of 475385
- 162177 string characters out of 2789100
+ 10007 strings out of 475385
+ 162213 string characters out of 2789100
  540680 words of memory out of 3000000
- 31212 multiletter control sequences out of 15000+600000
+ 31213 multiletter control sequences out of 15000+600000
  472649 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,288b,589s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,6n,77p,303b,589s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "Dwarf Guide.pdf" (7 pages, 108436 bytes).
+Output written on "Dwarf Guide.pdf" (8 pages, 111563 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 342 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 287 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 350 words of extra memory for PDF output out of 10000 (max. 10000000)
 
