@@ -537,9 +537,6 @@ INPUT ..\res\\dwarf.png
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsl12.tfm
 INPUT C:\Users\marco\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\Dwarf Guide.toc
 INPUT Dwarf Guide.toc
