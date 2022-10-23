@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  24 OCT 2022 00:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  24 OCT 2022 00:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,8 +8,8 @@ entering extended mode
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (D:\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(D:\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+(D:\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -100,8 +100,17 @@ Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
 Package ExtSizes Warning: It is better to use one of the extsizes classes,
  if you can.
 
-(D:\Programs\MiKTeX\tex/latex/extsizes\size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+(D:\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX Info: Command `\normalsize' is already robust on input line 56.
+LaTeX Info: Redefining \small on input line 58.
+LaTeX Info: Redefining \footnotesize on input line 69.
+LaTeX Info: Redefining \scriptsize on input line 80.
+LaTeX Info: Redefining \tiny on input line 81.
+LaTeX Info: Redefining \large on input line 82.
+LaTeX Info: Redefining \Large on input line 83.
+LaTeX Info: Redefining \LARGE on input line 84.
+LaTeX Info: Redefining \huge on input line 85.
 )) (D:\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
  (D:\Programs\MiKTeX\tex/latex/tools\xspace.sty
@@ -276,15 +285,15 @@ LaTeX Font Info:    ... okay on input line 27.
 * \textheight=731.23582pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-54.36449pt
-* \headheight=14.0pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=14.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=24.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -327,29 +336,31 @@ Package pdftex.def Info: ../res//dwarf.png  used on input line 36.
 
 {C:/Users/marco/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../res//dwarf.png>] (Dwarf Guide.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 3.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
- [2])
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write4
 \openout4 = `"Dwarf Guide.toc"'.
 
- [3] [4] [5] [6] [7] [8] (Dwarf Guide.aux)
+ [2] [3] [4] [5] [6] (Dwarf Guide.aux)
 Package rerunfilecheck Info: File `"Dwarf Guide".out' has not changed.
 (rerunfilecheck)             Checksum: E30C750CD7822D774C85194DD4A07DC4;3962.
  ) 
 Here is how much of TeX's memory you used:
- 10007 strings out of 475385
- 162213 string characters out of 2789100
- 540680 words of memory out of 3000000
- 31213 multiletter control sequences out of 15000+600000
- 472649 words of font info for 39 fonts, out of 8000000 for 9000
+ 10013 strings out of 475385
+ 162248 string characters out of 2789100
+ 541484 words of memory out of 3000000
+ 31216 multiletter control sequences out of 15000+600000
+ 474471 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,303b,589s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,6n,77p,303b,446s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "Dwarf Guide.pdf" (8 pages, 111563 bytes).
+Output written on "Dwarf Guide.pdf" (6 pages, 110219 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
  350 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -13,10 +13,11 @@ INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT D:\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT D:\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT D:\Programs\MiKTeX\tex\generic\babel\babel.sty
@@ -154,11 +155,10 @@ INPUT D:\Programs\MiKTeX\tex\latex\extsizes\extsizes.sty
 INPUT D:\Programs\MiKTeX\tex\latex\extsizes\extsizes.sty
 INPUT D:\Programs\MiKTeX\tex\latex\extsizes\extsizes.sty
 INPUT D:\Programs\MiKTeX\tex\latex\extsizes\extsizes.sty
-INPUT D:\Programs\MiKTeX\tex\latex\extsizes\size14.clo
-INPUT D:\Programs\MiKTeX\tex\latex\extsizes\size14.clo
-INPUT D:\Programs\MiKTeX\tex\latex\extsizes\size14.clo
-INPUT D:\Programs\MiKTeX\tex\latex\extsizes\size14.clo
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT D:\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT D:\Programs\MiKTeX\tex\latex\blindtext\blindtext.sty
 INPUT D:\Programs\MiKTeX\tex\latex\blindtext\blindtext.sty
 INPUT D:\Programs\MiKTeX\tex\latex\blindtext\blindtext.sty
@@ -542,10 +542,16 @@ INPUT .\Dwarf Guide.toc
 INPUT Dwarf Guide.toc
 INPUT Dwarf Guide.toc
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT Dwarf Guide.toc
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT Dwarf Guide.aux
 INPUT .\Dwarf Guide.out
