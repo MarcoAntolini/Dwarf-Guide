@@ -181,6 +181,40 @@ INPUT D:\Programs\MiKTeX\tex\latex\tools\xspace.sty
 INPUT D:\Programs\MiKTeX\tex\latex\tools\xspace.sty
 INPUT D:\Programs\MiKTeX\tex\latex\tools\xspace.sty
 INPUT D:\Programs\MiKTeX\tex\latex\tools\xspace.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT D:\Programs\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT D:\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT D:\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT D:\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
@@ -553,6 +587,13 @@ INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT Dwarf Guide.toc
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT ..\res\\wisdom\wisdom_example.png
+INPUT ..\res\\wisdom\wisdom_example.png
+INPUT ..\res\\wisdom\wisdom_example.png
+INPUT ..\res\\wisdom\wisdom_example.png
+INPUT ..\res\\wisdom\wisdom_example.png
+INPUT ..\res\\wisdom\wisdom_example.png
+INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
 INPUT Dwarf Guide.aux
 INPUT .\Dwarf Guide.out
 INPUT .\Dwarf Guide.out
@@ -560,5 +601,7 @@ INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
 INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
 INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
