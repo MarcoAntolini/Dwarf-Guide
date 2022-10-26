@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666713501 "d:/My Files/Dwarf-Guide/src/Dwarf Guide.tex" "Dwarf Guide.pdf" "Dwarf Guide" 1666713502
+["pdflatex"] 1666744895 "d:/My Files/Dwarf-Guide/src/Dwarf Guide.tex" "Dwarf Guide.pdf" "Dwarf Guide" 1666744896
   "../res//dwarf.png" 1642503714 44506 979333773f7821f2c07132a6b9bc5c3d ""
   "../res//wisdom/wisdom_example.png" 1666704571 83763 26e5dce9fd41a2eba6999761048a0576 ""
   "C:/Users/marco/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666705484 111117 1893ee98a909f5c79a3d60dcc05388f0 ""
@@ -78,11 +78,11 @@
   "D:/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1654690828 4545 4c279ac9292a1be8afa9ab2f1d3299c2 ""
   "D:/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044406800 26220 3701aebf80ccdef248c0c20dd062fea9 ""
-  "Dwarf Guide.aux" 1666713502 6170 f2e0d3e19ea2dd9cb36e048ad3a94a34 "pdflatex"
-  "Dwarf Guide.out" 1666713502 4587 2a7acd3ec59e1c209c71e478f09baa65 "pdflatex"
-  "Dwarf Guide.tex" 1666713501 5732 44a51c5c515b5d9fe53dd2f235da5559 ""
-  "Dwarf Guide.toc" 1666713502 3515 c5426ca85de154e7263b08054656f41c "pdflatex"
-  "d:/My Files/Dwarf-Guide/src/Dwarf Guide.tex" 1666713501 5732 44a51c5c515b5d9fe53dd2f235da5559 ""
+  "Dwarf Guide.aux" 1666744896 6170 f2e0d3e19ea2dd9cb36e048ad3a94a34 "pdflatex"
+  "Dwarf Guide.out" 1666744896 4587 2a7acd3ec59e1c209c71e478f09baa65 "pdflatex"
+  "Dwarf Guide.tex" 1666744893 5732 44a51c5c515b5d9fe53dd2f235da5559 ""
+  "Dwarf Guide.toc" 1666744896 3515 c5426ca85de154e7263b08054656f41c "pdflatex"
+  "d:/My Files/Dwarf-Guide/src/Dwarf Guide.tex" 1666744893 5732 44a51c5c515b5d9fe53dd2f235da5559 ""
   (generated)
   "Dwarf Guide.aux"
   "Dwarf Guide.log"
