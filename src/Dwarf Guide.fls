@@ -43,6 +43,29 @@ INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
 INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
 INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
 INPUT D:\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT D:\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\charter.sty
 INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT D:\Programs\MiKTeX\tex\latex\geometry\geometry.sty
@@ -192,6 +215,17 @@ INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
 INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
 INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
 INPUT D:\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT D:\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
 INPUT D:\Programs\MiKTeX\tex\latex\caption\caption.sty
@@ -514,6 +548,11 @@ INPUT D:\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT D:\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT D:\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT D:\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\t1bch.fd
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\t1bch.fd
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\t1bch.fd
+INPUT D:\Programs\MiKTeX\tex\latex\psnfss\t1bch.fd
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
 INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT D:\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -560,22 +599,28 @@ OUTPUT Dwarf Guide.pdf
 INPUT .\Dwarf Guide.out
 INPUT .\Dwarf Guide.out
 OUTPUT Dwarf Guide.out
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
 INPUT ..\res\\dwarf.png
 INPUT ..\res\\dwarf.png
 INPUT ..\res\\dwarf.png
 INPUT ..\res\\dwarf.png
 INPUT ..\res\\dwarf.png
 INPUT ..\res\\dwarf.png
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsl12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchro8t.tfm
+INPUT D:\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchb8t.vf
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
 INPUT C:\Users\marco\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr8t.vf
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
+INPUT D:\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchro8t.vf
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchro8r.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
 INPUT .\Dwarf Guide.toc
 INPUT Dwarf Guide.toc
 INPUT Dwarf Guide.toc
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -585,23 +630,31 @@ INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT Dwarf Guide.toc
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchb8t.vf
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
+INPUT D:\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchb8t.vf
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8t.tfm
+INPUT D:\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchb8t.vf
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
 INPUT ..\res\\wisdom\wisdom_example.png
 INPUT ..\res\\wisdom\wisdom_example.png
 INPUT ..\res\\wisdom\wisdom_example.png
 INPUT ..\res\\wisdom\wisdom_example.png
 INPUT ..\res\\wisdom\wisdom_example.png
 INPUT ..\res\\wisdom\wisdom_example.png
-INPUT D:\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8t.tfm
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchro8t.tfm
+INPUT D:\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchro8t.vf
+INPUT D:\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchro8r.tfm
 INPUT Dwarf Guide.aux
 INPUT .\Dwarf Guide.out
 INPUT .\Dwarf Guide.out
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
-INPUT D:\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
+INPUT D:\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT D:\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchb8a.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchb8a.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
+INPUT D:\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb

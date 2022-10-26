@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  26 OCT 2022 02:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.23)  26 OCT 2022 18:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -47,6 +47,10 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 )) (D:\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
+) (D:\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (D:\Programs\MiKTeX\tex/latex/psnfss\charter.sty
+Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 ) (D:\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (D:\Programs\MiKTeX\tex/latex/graphics\keyval.sty
@@ -141,6 +145,22 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \WF@box=\box53
 \WF@everypar=\toks20
 Package: wrapfig 2003/01/31  v 3.6
+) (D:\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
 ) (D:\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
  (D:\Programs\MiKTeX\tex/latex/caption\caption3.sty
@@ -265,34 +285,37 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip49
+\Hy@SectionHShift=\skip63
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 24.
- (D:\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+Package hyperref Info: Option `colorlinks' set `false' on input line 27.
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 34.
+ (D:\Programs\MiKTeX\tex/latex/psnfss\t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+) (D:\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count297
 \l__pdf_internal_box=\box54
 ) (Dwarf Guide.aux)
 \openout1 = `"Dwarf Guide.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -350,7 +373,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 34.
  (Dwarf Guide.out) (Dwarf Guide.out)
 \@outlinefile=\write3
 \openout3 = `"Dwarf Guide.out"'.
@@ -358,7 +381,7 @@ Package hyperref Info: Link coloring OFF on input line 30.
 <../res//dwarf.png, id=187, 256.96pt x 256.96pt>
 File: ../res//dwarf.png Graphic file (type png)
 <use ../res//dwarf.png>
-Package pdftex.def Info: ../res//dwarf.png  used on input line 39.
+Package pdftex.def Info: ../res//dwarf.png  used on input line 43.
 (pdftex.def)             Requested size: 256.95937pt x 256.95937pt.
  [1
 
@@ -373,28 +396,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `"Dwarf Guide.toc"'.
 
- [2] [3] [4]
-<../res//wisdom/wisdom_example.png, id=258, 672.5125pt x 143.53625pt>
+ [2] [3] [4] [5]
+<../res//wisdom/wisdom_example.png, id=262, 672.5125pt x 143.53625pt>
 File: ../res//wisdom/wisdom_example.png Graphic file (type png)
 <use ../res//wisdom/wisdom_example.png>
-Package pdftex.def Info: ../res//wisdom/wisdom_example.png  used on input line 104.
+Package pdftex.def Info: ../res//wisdom/wisdom_example.png  used on input line 108.
 (pdftex.def)             Requested size: 227.62204pt x 48.58266pt.
- [5 <../res//wisdom/wisdom_example.png>] [6] [7] (Dwarf Guide.aux)
+ [6 <../res//wisdom/wisdom_example.png>] [7] [8] (Dwarf Guide.aux)
 Package rerunfilecheck Info: File `"Dwarf Guide".out' has not changed.
 (rerunfilecheck)             Checksum: 2A7ACD3EC59E1C209C71E478F09BAA65;4587.
  ) 
 Here is how much of TeX's memory you used:
- 11381 strings out of 475385
- 188973 string characters out of 2789100
- 564629 words of memory out of 3000000
- 32565 multiletter control sequences out of 15000+600000
- 474824 words of font info for 46 fonts, out of 8000000 for 9000
+ 11729 strings out of 475385
+ 193740 string characters out of 2789100
+ 565395 words of memory out of 3000000
+ 32891 multiletter control sequences out of 15000+600000
+ 500539 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,379b,446s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><D:/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "Dwarf Guide.pdf" (7 pages, 214924 bytes).
+ 72i,6n,77p,379b,448s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><D:/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><D:/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
+Output written on "Dwarf Guide.pdf" (8 pages, 199710 bytes).
 PDF statistics:
  307 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
+ 58 named destinations out of 1000 (max. 500000)
  379 words of extra memory for PDF output out of 10000 (max. 10000000)
 
